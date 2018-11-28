@@ -235,12 +235,13 @@ a:hover {
 }
 
 .mid_pic img{
-	width:90%;
-	height: auto;
+	width: 700px;
+    height: 950px;
+    object-fit:cover;
 	border:1px solid #3c3c3c;
 	position:absolute;
-	bottom:40px;
-	left:30px;
+	bottom:0px;
+	left:120px;
 }
 
 .poster_context{
